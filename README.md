@@ -1,2 +1,2 @@
-# goitneo-python-hw-1
+# goitneo-python
 homework1
